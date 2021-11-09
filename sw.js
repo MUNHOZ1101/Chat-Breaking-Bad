@@ -4,7 +4,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
-    '/',
+ //   '/',
     'index.html',
     'css/style.css',
     'Images/image.ico',
@@ -19,7 +19,7 @@ const APP_SHELL = [
 
 const APP_SHELL_INMUTABLE = [
     'https://fonts.googleapis.com/css?family=Quicksand:300,400',
-    // 'https://fonts.googleapis.com/css?family=Lato:400,300',
+    'https://fonts.googleapis.com/css?family=Lato:400,300',
     // 'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
     'js/libs/jquery.js',
     'css/animate.css'

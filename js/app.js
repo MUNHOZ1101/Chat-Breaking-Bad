@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation= '/Chat-Breaking-Bad/sw.js';
+var swLocation= 'https://munhoz1101.github.io/Chat-Breaking-Bad/sw.js';
 
 
 if (navigator.serviceWorker)
